@@ -27,11 +27,11 @@
 天才都有早逝的归途。
 
 ### 3. *为什么*要使用它？
-+ 它是易读（看起开舒服）、易写（语法简单）、易更改**纯文本**。处处体现着**极简主义**的影子。
++ 它是易读（看起来舒服）、易写（语法简单）、易更改**纯文本**。处处体现着**极简主义**的影子。
 + 兼容HTML，可以转换为HTML格式发布。
 + 跨平台使用。
 + 越来越多的网站支持Markdown。
-+ 更方便清晰的组织你的电子邮件。（Markdown-here, Airmail）
++ 更方便清晰地组织你的电子邮件。（Markdown-here, Airmail）
 + 摆脱Word（我不是认真的）。
 
 ### 4. *怎么*使用？
@@ -191,7 +191,7 @@ Markdown的使用者：
 ****
 **注意**：不同的Markdown解释器或工具对相应语法（扩展语法）的解释效果不尽相同，具体可参见工具的使用说明。
 虽然有人想出面搞一个所谓的标准化的Markdown，[没想到还惹怒了健在的创始人John Gruber]
-(http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/)。
+(http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/ )。
 ****
 以上基本是所有traditonal markdown的语法。
 
